@@ -13,7 +13,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Ebenezer",
     cover:
@@ -26,7 +25,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Confidence",
     cover: "https://trendybeatz.com/images/Mercy-Chinwo-Confidence-Artwork.jpg",
@@ -50,11 +48,10 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
-
   {
     name: "Jesus Iye",
-    cover: "https://trendybeatz.com/images/Nathaniel-Bassey-Jesus-Iye-Artwork.jpg",
+    cover:
+      "https://trendybeatz.com/images/Nathaniel-Bassey-Jesus-Iye-Artwork.jpg",
     artist: "Nathaniel Bassey",
     feature: "Nathaniel Bassey",
     audio:
@@ -63,7 +60,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Daddy Wey Dey Pamper",
     cover:
@@ -76,7 +72,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Heavy Down Pour",
     cover:
@@ -89,7 +84,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Total Submission",
     cover:
@@ -102,7 +96,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Tobechukwu",
     cover:
@@ -115,7 +108,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Lifter",
     cover:
@@ -128,7 +120,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "I Will Pray",
     cover: "https://trendybeatz.com/images/Ebuka-Songs-I-Will-Pray-Artwork.jpg",
@@ -140,7 +131,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Ifunanya Gi (Your Love)",
     cover:
@@ -153,7 +143,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Amazing God",
     cover: "https://trendybeatz.com/images/Mercy-Chinwo-Amazing-God-Art.jpg",
@@ -165,7 +154,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Miracle No Dey Tire Jesus",
     cover:
@@ -178,7 +166,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Selense",
     cover: "https://trendybeatz.com/images/Frank-Edwards-Selense-Artwork.jpg",
@@ -190,7 +177,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Thanksgiving",
     cover:
@@ -203,7 +189,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "What Medication",
     cover:
@@ -216,7 +201,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Who Is On The Lord's Side",
     cover:
@@ -229,7 +213,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Ugwo Ndu M",
     cover:
@@ -242,7 +225,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Fountain Of Mercy",
     cover:
@@ -255,7 +237,6 @@ export const songList = [
     id: uuidv4(),
     active: false,
   },
-
   {
     name: "Eze Mmuo",
     cover:
@@ -281,7 +262,6 @@ export const songList = [
     active: false,
   },
 ];
-
 
 // dffd
 // df
