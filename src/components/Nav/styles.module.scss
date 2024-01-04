@@ -1,0 +1,63 @@
+nav {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  .logotext {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    span {
+      margin-left: 5px;
+      margin-bottom: 4px;
+      font-size: 14px;
+      font-weight: 600;
+      @media (max-width: 768px) {
+        font-size: 12px;
+        margin-bottom: 3px;
+      }
+    }
+  }
+  .logo_container {
+    img {
+      // width: 50px;
+      height: 40px;
+    }
+    @media screen and (max-width: 768px) {
+      img {
+        // width: 50px;
+        height: 30px;
+      }
+    }
+  }
+  h1 {
+    span {
+      font-size: 2rem;
+      color: green;
+      letter-spacing: -1px;
+    }
+  }
+  button {
+    background: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    border: 2px solid rgb(65, 65, 65);
+    border-radius: 7px;
+    padding: 0.5rem;
+    transition: all 0.3s ease;
+    &:hover {
+      background: rgb(65, 65, 65);
+      color: white;
+    }
+    span {
+      margin-right: 5px;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  nav {
+    button {
+      z-index: 10;
+    }
+  }
+}

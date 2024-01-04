@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$green-color: #005e0d;
+
+h1,
+h2,
+h3 {
+  color: rgb(53, 53, 53);
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+.App {
+  transition: all 0.5s ease;
+//   background-image: url('/music_bg.jpg');
+  //   background: #989898;
+}
+
+.library-active {
+  margin-left: 20%;
+}
+
+// @import './song';
+// @import './player';
+// @import './library';
+// @import './nav';
